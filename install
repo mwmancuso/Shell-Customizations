@@ -17,6 +17,9 @@
 # Install zsh-syntax-highlighting
 # https://github.com/zsh-users/zsh-syntax-highlighting
 
+# Install exa
+# https://the.exa.website
+
 # Set theme:
 # ZSH_THEME="powerlevel10k/powerlevel10k"
 
